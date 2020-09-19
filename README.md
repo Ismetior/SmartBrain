@@ -1,3 +1,5 @@
+It is a Website for which React.js, and its API was made using Node.js and it also uses an external API called "Clarifai" to detect the faces in the images in the urls that users give it. The Database was made with the help of PostgreSQL Relational Database.
+
 # SmartBrain
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
